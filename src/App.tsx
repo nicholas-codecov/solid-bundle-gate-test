@@ -28,6 +28,15 @@ function App() {
       <p class="read-the-docs">
         Click on the Vite and Solid logos to learn more, wow that's really cool
       </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
     </>
   )
 }
