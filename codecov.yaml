@@ -1,3 +1,3 @@
 comment:
   require_bundle_changes: True
-  bundle_change_threshold: 1b
+  bundle_change_threshold: 10Kb
