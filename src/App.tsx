@@ -1,10 +1,10 @@
-import { createSignal } from 'solid-js'
-import solidLogo from './assets/solid.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import { createSignal } from "solid-js";
+import solidLogo from "./assets/solid.svg";
+import viteLogo from "/vite.svg";
+import "./App.css";
 
 function App() {
-  const [count, setCount] = createSignal(0)
+  const [count, setCount] = createSignal(0);
 
   return (
     <>
@@ -37,8 +37,41 @@ function App() {
       <p class="read-the-docs">
         Click on the Vite and Solid logos to learn more, wow that's really cool
       </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
+      <p class="read-the-docs">
+        Click on the Vite and Solid logos to learn more, wow that's really cool
+      </p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
