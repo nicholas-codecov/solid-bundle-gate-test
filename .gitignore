@@ -25,5 +25,7 @@ dist-ssr
 *.sw?
 
 # yarn
+.yarn/unplugged
+.yarn/install-state.gz
 .pnp.cjs
 .pnp.loader.mjs
