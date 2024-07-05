@@ -29,3 +29,5 @@ dist-ssr
 .yarn/install-state.gz
 .pnp.cjs
 .pnp.loader.mjs
+
+vite.config.ts
